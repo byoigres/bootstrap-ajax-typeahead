@@ -3,7 +3,7 @@
  * Copyright 2012-2015 Twitter Inc.
  * Licensed under MIT (https://github.com/biggora/bootstrap-ajax-typeahead/blob/master/LICENSE)
  * See Demo: http://plugins.upbootstrap.com/bootstrap-ajax-typeahead
- * Updated: 2015-04-05 11:43:56
+ * Updated: 2015-12-15 06:23:50
  *
  * Modifications by Paul Warelis and Alexey Gordeyev
  */
